@@ -35,11 +35,14 @@ pip install -r requirements.txt
 python3 403-Magnum.py [options]
 ```
 
-Eg: python3 403-Magnum.py -v -u https://website.com/403.log
+Example: python3 403-Magnum.py -v -u https://website.com/403.log
 
-Options:
-  -h, --help         show this help message and exit
-  -v, --verbose      Shows all responses
-  -u URL, --url=URL  Url of website
+## Options:
+- -h --help       Shows the help message
+- -v --verbose    Shows all requests sent to the URL ( if not mentioned, only shows the 200 response request )
+- -u --url        URL of the website
 
-![image](https://github.com/user-attachments/assets/eef7f78d-3083-48f5-b4f2-2457c628197d)
+![image](https://github.com/user-attachments/assets/b92b0f6f-3fcd-4f6c-ab9f-ed66aa7c78a1)
+
+
+
