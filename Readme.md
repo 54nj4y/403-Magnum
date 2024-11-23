@@ -35,7 +35,7 @@ pip install -r requirements.txt
 python3 403-Magnum.py [options]
 ```
 
-Eg: python 403-Magnum.py -v -u https://website.com/403.log
+Eg: python3 403-Magnum.py -v -u https://website.com/403.log
 
 Options:
   -h, --help         show this help message and exit
