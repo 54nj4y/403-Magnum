@@ -13,6 +13,7 @@ This tool supports various fuzzing techniques and outputs detailed HTTP status c
 ##Table of Contents
  - [ Installation ](#installation)
  - [Usage](#usage)
+ - [Options](#options)
 
 ## Installation
 
