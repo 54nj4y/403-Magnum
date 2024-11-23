@@ -1,0 +1,3 @@
+pyfiglet
+optparse-pretty
+urllib3
