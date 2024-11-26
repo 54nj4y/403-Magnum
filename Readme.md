@@ -10,7 +10,7 @@ A powerful tool for bypassing 403 Forbidden responses. This tool attempts variou
   
 This tool supports various fuzzing techniques and outputs detailed HTTP status codes for each request to help you analyze server behavior and response handling.
 
-##Table of Contents
+## Table of Contents
  - [ Installation ](#installation)
  - [Usage](#usage)
  - [Options](#options)
